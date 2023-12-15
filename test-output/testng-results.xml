@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-16T02:20:19 IST" name="Tendable Automation Suite" finished-at="2023-12-16T02:20:43 IST" duration-ms="23937">
+    <groups>
+    </groups>
+    <test started-at="2023-12-16T02:20:19 IST" name="Tendable Automation Test" finished-at="2023-12-16T02:20:43 IST" duration-ms="23937">
+      <class name="com.tendable.Tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tendable.Tests.HomePageTest@741a8937]" started-at="2023-12-16T02:20:19 IST" name="setUp" finished-at="2023-12-16T02:20:26 IST" duration-ms="7357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTendableLogo()[pri:1, instance:com.tendable.Tests.HomePageTest@741a8937]" started-at="2023-12-16T02:20:26 IST" name="verifyTendableLogo" finished-at="2023-12-16T02:20:27 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTendableLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tendable.Tests.HomePageTest@741a8937]" started-at="2023-12-16T02:20:27 IST" name="tearDown" finished-at="2023-12-16T02:20:27 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tendable.Tests.HomePageTest@741a8937]" started-at="2023-12-16T02:20:27 IST" name="setUp" finished-at="2023-12-16T02:20:33 IST" duration-ms="6156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRequestDemo()[pri:2, instance:com.tendable.Tests.HomePageTest@741a8937]" started-at="2023-12-16T02:20:33 IST" name="verifyRequestDemo" finished-at="2023-12-16T02:20:33 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRequestDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tendable.Tests.HomePageTest@741a8937]" started-at="2023-12-16T02:20:33 IST" name="tearDown" finished-at="2023-12-16T02:20:33 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tendable.Tests.HomePageTest -->
+      <class name="com.tendable.Tests.ContactUsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tendable.Tests.ContactUsTest@4b0d79fc]" started-at="2023-12-16T02:20:33 IST" name="setUp" finished-at="2023-12-16T02:20:38 IST" duration-ms="4905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactUsTest()[pri:0, instance:com.tendable.Tests.ContactUsTest@4b0d79fc]" started-at="2023-12-16T02:20:38 IST" name="contactUsTest" finished-at="2023-12-16T02:20:43 IST" duration-ms="4404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tendable.Tests.ContactUsTest@4b0d79fc]" started-at="2023-12-16T02:20:43 IST" name="tearDown" finished-at="2023-12-16T02:20:43 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tendable.Tests.ContactUsTest -->
+    </test> <!-- Tendable Automation Test -->
+  </suite> <!-- Tendable Automation Suite -->
+</testng-results>

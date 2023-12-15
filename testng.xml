@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Tendable Automation Suite">
+  <test name="Tendable Automation Test">
+    <classes>
+		<class name="com.tendable.Tests.HomePageTest"/>
+      	<class name="com.tendable.Tests.ContactUsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
